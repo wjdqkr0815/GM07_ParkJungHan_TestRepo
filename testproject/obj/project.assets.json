@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wjdqk\\source\\repos\\testproject\\testproject\\testproject.csproj",
+      "projectUniqueName": "C:\\Users\\wjdqk\\OneDrive\\문서\\GitHub\\GM07_ParkJungHan_TestRepo\\testproject\\testproject.csproj",
       "projectName": "testproject",
-      "projectPath": "C:\\Users\\wjdqk\\source\\repos\\testproject\\testproject\\testproject.csproj",
+      "projectPath": "C:\\Users\\wjdqk\\OneDrive\\문서\\GitHub\\GM07_ParkJungHan_TestRepo\\testproject\\testproject.csproj",
       "packagesPath": "C:\\Users\\wjdqk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wjdqk\\source\\repos\\testproject\\testproject\\obj\\",
+      "outputPath": "C:\\Users\\wjdqk\\OneDrive\\문서\\GitHub\\GM07_ParkJungHan_TestRepo\\testproject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wjdqk\\AppData\\Roaming\\NuGet\\NuGet.Config",
